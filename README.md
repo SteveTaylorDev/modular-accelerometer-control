@@ -1,6 +1,6 @@
 # Modular Accelerometer Control
 
-Started as a refactoring of the accelerometer-control repo, and wanting to practise a more modular design, this project aims to split systems up into more specialized components. 
+Started as a refactoring of the accelerometer-control repo, and wanting to practise a more modular design, this project aimed to split systems up into more specialized components. 
 
 Physics Controller script handles object forces, with customization options for gravity, input and rotation, along with "arcade" styled physics that apply movement calculations directly to the object transform, bypassing Unity's rigidbody forces system.
 
