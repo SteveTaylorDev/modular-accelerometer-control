@@ -6,4 +6,4 @@ Physics Controller script handles object forces, with customization options for 
 
 The scope then expanded to focus more on building specific, focused behaviour scripts, and allowing them to be attached to an object that contains the corresponding controller type. These scripts automatically reference the controller and apply the desired behaviour, such as setting orientation, gravity direction, or performing ground detection using raycasts. 
 
-This means that gameplay can be built for each object entirely from the Unity editor, with no coding neccesary.
+This means that gameplay can be built for each object using these prebuilt behaviour scripts coupled with their respective controller, and entirely in the Unity editor with no coding neccesary.
